@@ -27,4 +27,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: enesgencer18/turkey-macro-dashboard-docker-r:latest
+          tags: enesgencer18/turkey-macro-dashboard:latest
