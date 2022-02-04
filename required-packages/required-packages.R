@@ -15,5 +15,7 @@ install.packages('modeltime')
 install.packages('timetk')
 install.packages('skimr')
 install.packages('quantmod')
+install.packages('rmarkdown')
+install.packages('flexdashboard')
 
 print("Packages are installed successfully")
