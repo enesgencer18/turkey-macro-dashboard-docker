@@ -17,5 +17,6 @@ install.packages('skimr')
 install.packages('quantmod')
 install.packages('rmarkdown')
 install.packages('flexdashboard')
+install.packages('RColorBrewer')
 
 print("Packages are installed successfully")
