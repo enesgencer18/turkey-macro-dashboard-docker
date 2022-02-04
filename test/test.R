@@ -16,5 +16,7 @@ library('timetk')
 library('skimr')
 library('quantmod')
 library("tidyverse")
+library('rmarkdown')
+library('flexdashboard')
 
 print("Packages are loaded successfully")
