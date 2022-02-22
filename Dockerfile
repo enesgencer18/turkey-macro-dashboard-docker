@@ -16,6 +16,6 @@ RUN chmod +x /test.R
 RUN chmod +x /run_tests.sh
 
 # Run Tests  
-RUN Rscript /test.R  
+RUN Rscript /test.R   
 
 WORKDIR "turkey-macro-dashboard-docker" 
