@@ -18,5 +18,6 @@ install.packages('quantmod')
 install.packages('rmarkdown')
 install.packages('flexdashboard')
 install.packages('RColorBrewer')
+install.packages('caret')
 
 print("Packages are installed successfully")
