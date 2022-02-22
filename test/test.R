@@ -18,5 +18,6 @@ library('quantmod')
 library("tidyverse")
 library('rmarkdown')
 library('flexdashboard')
+library('caret')
 
 print("Packages are loaded successfully")
