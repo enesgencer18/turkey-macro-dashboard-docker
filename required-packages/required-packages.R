@@ -19,5 +19,6 @@ install.packages('rmarkdown')
 install.packages('flexdashboard')
 install.packages('RColorBrewer')
 install.packages('caret')
+install.packages('glmnet')
 
 print("Packages are installed successfully")
